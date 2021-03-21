@@ -1,0 +1,10 @@
+{
+    "name": "mxp/reserve-vendor",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michael Kramer",
+            "email": "m.kramer@mxp.de"
+        }
+    ]
+}
